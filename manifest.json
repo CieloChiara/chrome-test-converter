@@ -1,0 +1,17 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+
+  "manifest_version": 3,
+  "description": "Chrome Extension Sample",
+  "version": "1.0",
+
+  "action": {
+    "default_popup": "index.html"
+  },
+
+  "host_permissions": [
+    "<all_urls>"
+  ]
+
+}
